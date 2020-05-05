@@ -1,2 +1,3 @@
 # graphql-test
-Playing around with graphql
+
+-Playing around with graphql
