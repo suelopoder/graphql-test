@@ -1,37 +1,35 @@
-import React from 'react';
-import { useQuery } from '@apollo/react-hooks';
-import { gql } from 'apollo-boost';
-import News from './News';
+import React from "react";
+import News from "./News";
+import CountryFetch from "./CountryFetch";
+import CountryDataFetch from "./CountryDataFetch";
+import Map from "./Map";
+import GeneralData from "./GeneralData";
 
-const getCountry = code => gql`
-  {
-    country(code:"${code}") {
-      name,
-      capital,
-      currency,
-      emoji
-    }
-  }
-`;
-
-function Country(props) {
-  const { loading, error, data } = useQuery(getCountry(props.code));
-  if (loading) return <p>Give me a sec...</p>;
-  if (error) return <p>Ups. Em... I swear this is the first time this happens.</p>;
-
-  const { country } = data;
+function CountryView(props) {
+  const { country } = props;
 
   return (
-    <main>
+    <>
       <h1>
         Country of the day is
+        <br />
         {country.emoji}
         {country.name}
       </h1>
-      <section>
-        <News query={country.name} />
-      </section>
-    </main>
+      <GeneralData query={country.name} />
+      <News query={country.name} />
+      <Map query={country.name} />
+    </>
+  );
+}
+
+function Country() {
+  return (
+    <CountryFetch>
+      <CountryDataFetch>
+        <CountryView />
+      </CountryDataFetch>
+    </CountryFetch>
   );
 }
 

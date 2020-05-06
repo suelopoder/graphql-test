@@ -3,10 +3,20 @@
   padding: 0;
 }
 
+#root {
+  margin: auto;
+  width: 800px;
+}
+
+h1 {
+  text-align: center;
+}
+
 .news ul {
   list-style: none;
   display: flex;
   width: 220px;
+  margin: auto;
   flex-wrap: wrap;
 }
 .news ul li {
@@ -15,4 +25,11 @@
 .news ul img {
   width: 200px;
   display: block;
+}
+
+.map {
+  text-align: center;
+}
+.map h2 {
+  text-align: left;
 }
