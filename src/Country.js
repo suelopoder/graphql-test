@@ -1,6 +1,5 @@
 import React from "react";
 import News from "./News";
-import CountryFetch from "./CountryFetch";
 import CountryDataFetch from "./CountryDataFetch";
 import Map from "./Map";
 import GeneralData from "./GeneralData";
@@ -16,20 +15,18 @@ function CountryView(props) {
         {country.emoji}
         {country.name}
       </h1>
-      <GeneralData query={country.name} />
+      <GeneralData {...country} />
       <News query={country.name} />
-      <Map query={country.name} />
+      <Map mapUrl={`/img/map/${country.code}.png`} query={country.name} />
     </>
   );
 }
 
 function Country() {
   return (
-    <CountryFetch>
-      <CountryDataFetch>
-        <CountryView />
-      </CountryDataFetch>
-    </CountryFetch>
+    <CountryDataFetch>
+      <CountryView />
+    </CountryDataFetch>
   );
 }
 

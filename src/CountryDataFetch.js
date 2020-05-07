@@ -5,24 +5,26 @@ import Error from './Error';
 import Loading from './Loading';
 
 const GET_COUNTRY = gql`
-  query GetCountry($code: ID!) {
-    country(code: $code) {
+  query {
+    countryOfTheDay {
       name,
       capital,
       currency,
-      emoji
+      emoji,
+      code,
+      languages,
+      area,
+      population
     }
   }
 `;
 
 function CountryDataFetch(props) {
-  const { loading, error, data } = useQuery(GET_COUNTRY, {
-    variables: { code: props.countryCode.toUpperCase() }
-  });
+  const { loading, error, data } = useQuery(GET_COUNTRY);
 
   if (loading) return <Loading />;
   if (error) return <Error error={error} />;
-  const { country } = data;
+  const { countryOfTheDay: country } = data;
 
   return React.cloneElement(props.children, { country });
 }

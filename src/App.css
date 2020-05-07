@@ -15,7 +15,6 @@ h1 {
 .news ul {
   list-style: none;
   display: flex;
-  width: 220px;
   margin: auto;
   flex-wrap: wrap;
 }
