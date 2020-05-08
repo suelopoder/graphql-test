@@ -1,10 +1,10 @@
 import React from 'react';
 
 const Map = ({ mapUrl, query }) => (
-  <div className="map">
-    <h2>Here is {query} on the world</h2>
+  <section id="map">
+    <h2>On the world</h2>
     <img alt={`${query} Map`} src={mapUrl} />
-  </div>
+  </section>
 )
 
 export default Map;

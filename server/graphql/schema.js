@@ -13,6 +13,7 @@ const typeDefs = gql`
     area: Float
     population: Float
     gini: Float
+    svgUrl: String
   }
   type Query {
     countries: [Country]!

@@ -11,7 +11,8 @@ module.exports = [
     ],
     "area": 468,
     "population": 78014,
-    "gini": null
+    "gini": null,
+    "svgUrl": "https://restcountries.eu/data/and.svg"
   },
   {
     "code": "AE",
@@ -25,7 +26,8 @@ module.exports = [
     ],
     "area": 83600,
     "population": 9856000,
-    "gini": null
+    "gini": null,
+    "svgUrl": "https://restcountries.eu/data/are.svg"
   },
   {
     "code": "AF",
@@ -41,7 +43,8 @@ module.exports = [
     ],
     "area": 652230,
     "population": 27657145,
-    "gini": 27.8
+    "gini": 27.8,
+    "svgUrl": "https://restcountries.eu/data/afg.svg"
   },
   {
     "code": "AG",
@@ -55,7 +58,8 @@ module.exports = [
     ],
     "area": 442,
     "population": 86295,
-    "gini": null
+    "gini": null,
+    "svgUrl": "https://restcountries.eu/data/atg.svg"
   },
   {
     "code": "AI",
@@ -69,7 +73,8 @@ module.exports = [
     ],
     "area": 91,
     "population": 13452,
-    "gini": null
+    "gini": null,
+    "svgUrl": "https://restcountries.eu/data/aia.svg"
   },
   {
     "code": "AL",
@@ -83,7 +88,8 @@ module.exports = [
     ],
     "area": 28748,
     "population": 2886026,
-    "gini": 34.5
+    "gini": 34.5,
+    "svgUrl": "https://restcountries.eu/data/alb.svg"
   },
   {
     "code": "AM",
@@ -98,7 +104,8 @@ module.exports = [
     ],
     "area": 29743,
     "population": 2994400,
-    "gini": 30.9
+    "gini": 30.9,
+    "svgUrl": "https://restcountries.eu/data/arm.svg"
   },
   {
     "code": "AO",
@@ -112,7 +119,8 @@ module.exports = [
     ],
     "area": 1246700,
     "population": 25868000,
-    "gini": 58.6
+    "gini": 58.6,
+    "svgUrl": "https://restcountries.eu/data/ago.svg"
   },
   {
     "code": "AQ",
@@ -124,7 +132,8 @@ module.exports = [
     "languages": [],
     "area": 14000000,
     "population": 1000,
-    "gini": null
+    "gini": null,
+    "svgUrl": "https://restcountries.eu/data/ata.svg"
   },
   {
     "code": "AR",
@@ -139,7 +148,8 @@ module.exports = [
     ],
     "area": 2780400,
     "population": 43590400,
-    "gini": 44.5
+    "gini": 44.5,
+    "svgUrl": "https://restcountries.eu/data/arg.svg"
   },
   {
     "code": "AS",
@@ -154,7 +164,8 @@ module.exports = [
     ],
     "area": 199,
     "population": 57100,
-    "gini": null
+    "gini": null,
+    "svgUrl": "https://restcountries.eu/data/asm.svg"
   },
   {
     "code": "AT",
@@ -168,7 +179,8 @@ module.exports = [
     ],
     "area": 83871,
     "population": 8725931,
-    "gini": 26
+    "gini": 26,
+    "svgUrl": "https://restcountries.eu/data/aut.svg"
   },
   {
     "code": "AU",
@@ -182,7 +194,8 @@ module.exports = [
     ],
     "area": 7692024,
     "population": 24117360,
-    "gini": 30.5
+    "gini": 30.5,
+    "svgUrl": "https://restcountries.eu/data/aus.svg"
   },
   {
     "code": "AW",
@@ -197,7 +210,8 @@ module.exports = [
     ],
     "area": 180,
     "population": 107394,
-    "gini": null
+    "gini": null,
+    "svgUrl": "https://restcountries.eu/data/abw.svg"
   },
   {
     "code": "AX",
@@ -211,7 +225,8 @@ module.exports = [
     ],
     "area": 1580,
     "population": 28875,
-    "gini": null
+    "gini": null,
+    "svgUrl": "https://restcountries.eu/data/ala.svg"
   },
   {
     "code": "AZ",
@@ -225,7 +240,8 @@ module.exports = [
     ],
     "area": 86600,
     "population": 9730500,
-    "gini": 33.7
+    "gini": 33.7,
+    "svgUrl": "https://restcountries.eu/data/aze.svg"
   },
   {
     "code": "BA",
@@ -241,7 +257,8 @@ module.exports = [
     ],
     "area": 51209,
     "population": 3531159,
-    "gini": 36.2
+    "gini": 36.2,
+    "svgUrl": "https://restcountries.eu/data/bih.svg"
   },
   {
     "code": "BB",
@@ -255,7 +272,8 @@ module.exports = [
     ],
     "area": 430,
     "population": 285000,
-    "gini": null
+    "gini": null,
+    "svgUrl": "https://restcountries.eu/data/brb.svg"
   },
   {
     "code": "BD",
@@ -269,7 +287,8 @@ module.exports = [
     ],
     "area": 147570,
     "population": 161006790,
-    "gini": 32.1
+    "gini": 32.1,
+    "svgUrl": "https://restcountries.eu/data/bgd.svg"
   },
   {
     "code": "BE",
@@ -285,7 +304,8 @@ module.exports = [
     ],
     "area": 30528,
     "population": 11319511,
-    "gini": 33
+    "gini": 33,
+    "svgUrl": "https://restcountries.eu/data/bel.svg"
   },
   {
     "code": "BF",
@@ -300,7 +320,8 @@ module.exports = [
     ],
     "area": 272967,
     "population": 19034397,
-    "gini": 39.8
+    "gini": 39.8,
+    "svgUrl": "https://restcountries.eu/data/bfa.svg"
   },
   {
     "code": "BG",
@@ -314,7 +335,8 @@ module.exports = [
     ],
     "area": 110879,
     "population": 7153784,
-    "gini": 28.2
+    "gini": 28.2,
+    "svgUrl": "https://restcountries.eu/data/bgr.svg"
   },
   {
     "code": "BH",
@@ -328,7 +350,8 @@ module.exports = [
     ],
     "area": 765,
     "population": 1404900,
-    "gini": null
+    "gini": null,
+    "svgUrl": "https://restcountries.eu/data/bhr.svg"
   },
   {
     "code": "BI",
@@ -343,7 +366,8 @@ module.exports = [
     ],
     "area": 27834,
     "population": 10114505,
-    "gini": 33.3
+    "gini": 33.3,
+    "svgUrl": "https://restcountries.eu/data/bdi.svg"
   },
   {
     "code": "BJ",
@@ -357,7 +381,8 @@ module.exports = [
     ],
     "area": 112622,
     "population": 10653654,
-    "gini": 38.6
+    "gini": 38.6,
+    "svgUrl": "https://restcountries.eu/data/ben.svg"
   },
   {
     "code": "BL",
@@ -371,7 +396,8 @@ module.exports = [
     ],
     "area": 21,
     "population": 9417,
-    "gini": null
+    "gini": null,
+    "svgUrl": "https://restcountries.eu/data/blm.svg"
   },
   {
     "code": "BM",
@@ -385,7 +411,8 @@ module.exports = [
     ],
     "area": 54,
     "population": 61954,
-    "gini": null
+    "gini": null,
+    "svgUrl": "https://restcountries.eu/data/bmu.svg"
   },
   {
     "code": "BN",
@@ -399,7 +426,8 @@ module.exports = [
     ],
     "area": 5765,
     "population": 411900,
-    "gini": null
+    "gini": null,
+    "svgUrl": "https://restcountries.eu/data/brn.svg"
   },
   {
     "code": "BO",
@@ -415,7 +443,8 @@ module.exports = [
     ],
     "area": 1098581,
     "population": 10985059,
-    "gini": 56.3
+    "gini": 56.3,
+    "svgUrl": "https://restcountries.eu/data/bol.svg"
   },
   {
     "code": "BQ",
@@ -429,7 +458,8 @@ module.exports = [
     ],
     "area": 294,
     "population": 17408,
-    "gini": null
+    "gini": null,
+    "svgUrl": "https://restcountries.eu/data/bes.svg"
   },
   {
     "code": "BR",
@@ -443,7 +473,8 @@ module.exports = [
     ],
     "area": 8515767,
     "population": 206135893,
-    "gini": 54.7
+    "gini": 54.7,
+    "svgUrl": "https://restcountries.eu/data/bra.svg"
   },
   {
     "code": "BS",
@@ -457,7 +488,8 @@ module.exports = [
     ],
     "area": 13943,
     "population": 378040,
-    "gini": null
+    "gini": null,
+    "svgUrl": "https://restcountries.eu/data/bhs.svg"
   },
   {
     "code": "BT",
@@ -471,7 +503,8 @@ module.exports = [
     ],
     "area": 38394,
     "population": 775620,
-    "gini": 38.1
+    "gini": 38.1,
+    "svgUrl": "https://restcountries.eu/data/btn.svg"
   },
   {
     "code": "BV",
@@ -487,7 +520,8 @@ module.exports = [
     ],
     "area": 49,
     "population": 0,
-    "gini": null
+    "gini": null,
+    "svgUrl": "https://restcountries.eu/data/bvt.svg"
   },
   {
     "code": "BW",
@@ -502,7 +536,8 @@ module.exports = [
     ],
     "area": 582000,
     "population": 2141206,
-    "gini": 61
+    "gini": 61,
+    "svgUrl": "https://restcountries.eu/data/bwa.svg"
   },
   {
     "code": "BY",
@@ -517,7 +552,8 @@ module.exports = [
     ],
     "area": 207600,
     "population": 9498700,
-    "gini": 26.5
+    "gini": 26.5,
+    "svgUrl": "https://restcountries.eu/data/blr.svg"
   },
   {
     "code": "BZ",
@@ -532,7 +568,8 @@ module.exports = [
     ],
     "area": 22966,
     "population": 370300,
-    "gini": 53.1
+    "gini": 53.1,
+    "svgUrl": "https://restcountries.eu/data/blz.svg"
   },
   {
     "code": "CA",
@@ -547,7 +584,8 @@ module.exports = [
     ],
     "area": 9984670,
     "population": 36155487,
-    "gini": 32.6
+    "gini": 32.6,
+    "svgUrl": "https://restcountries.eu/data/can.svg"
   },
   {
     "code": "CC",
@@ -561,7 +599,8 @@ module.exports = [
     ],
     "area": 14,
     "population": 550,
-    "gini": null
+    "gini": null,
+    "svgUrl": "https://restcountries.eu/data/cck.svg"
   },
   {
     "code": "CD",
@@ -579,7 +618,8 @@ module.exports = [
     ],
     "area": 2344858,
     "population": 85026000,
-    "gini": null
+    "gini": null,
+    "svgUrl": "https://restcountries.eu/data/cod.svg"
   },
   {
     "code": "CF",
@@ -594,7 +634,8 @@ module.exports = [
     ],
     "area": 622984,
     "population": 4998000,
-    "gini": 56.3
+    "gini": 56.3,
+    "svgUrl": "https://restcountries.eu/data/caf.svg"
   },
   {
     "code": "CG",
@@ -609,7 +650,8 @@ module.exports = [
     ],
     "area": 342000,
     "population": 4741000,
-    "gini": 47.3
+    "gini": 47.3,
+    "svgUrl": "https://restcountries.eu/data/cog.svg"
   },
   {
     "code": "CH",
@@ -625,7 +667,8 @@ module.exports = [
     ],
     "area": 41284,
     "population": 8341600,
-    "gini": 33.7
+    "gini": 33.7,
+    "svgUrl": "https://restcountries.eu/data/che.svg"
   },
   {
     "code": "CI",
@@ -639,7 +682,8 @@ module.exports = [
     ],
     "area": 322463,
     "population": 22671331,
-    "gini": 41.5
+    "gini": 41.5,
+    "svgUrl": "https://restcountries.eu/data/civ.svg"
   },
   {
     "code": "CK",
@@ -653,7 +697,8 @@ module.exports = [
     ],
     "area": 236,
     "population": 18100,
-    "gini": null
+    "gini": null,
+    "svgUrl": "https://restcountries.eu/data/cok.svg"
   },
   {
     "code": "CL",
@@ -667,7 +712,8 @@ module.exports = [
     ],
     "area": 756102,
     "population": 18191900,
-    "gini": 52.1
+    "gini": 52.1,
+    "svgUrl": "https://restcountries.eu/data/chl.svg"
   },
   {
     "code": "CM",
@@ -682,7 +728,8 @@ module.exports = [
     ],
     "area": 475442,
     "population": 22709892,
-    "gini": 38.9
+    "gini": 38.9,
+    "svgUrl": "https://restcountries.eu/data/cmr.svg"
   },
   {
     "code": "CN",
@@ -696,7 +743,8 @@ module.exports = [
     ],
     "area": 9640011,
     "population": 1377422166,
-    "gini": 47
+    "gini": 47,
+    "svgUrl": "https://restcountries.eu/data/chn.svg"
   },
   {
     "code": "CO",
@@ -710,7 +758,8 @@ module.exports = [
     ],
     "area": 1141748,
     "population": 48759958,
-    "gini": 55.9
+    "gini": 55.9,
+    "svgUrl": "https://restcountries.eu/data/col.svg"
   },
   {
     "code": "CR",
@@ -724,7 +773,8 @@ module.exports = [
     ],
     "area": 51100,
     "population": 4890379,
-    "gini": 50.7
+    "gini": 50.7,
+    "svgUrl": "https://restcountries.eu/data/cri.svg"
   },
   {
     "code": "CU",
@@ -738,7 +788,8 @@ module.exports = [
     ],
     "area": 109884,
     "population": 11239004,
-    "gini": null
+    "gini": null,
+    "svgUrl": "https://restcountries.eu/data/cub.svg"
   },
   {
     "code": "CV",
@@ -752,7 +803,8 @@ module.exports = [
     ],
     "area": 4033,
     "population": 531239,
-    "gini": 50.5
+    "gini": 50.5,
+    "svgUrl": "https://restcountries.eu/data/cpv.svg"
   },
   {
     "code": "CW",
@@ -768,7 +820,8 @@ module.exports = [
     ],
     "area": 444,
     "population": 154843,
-    "gini": null
+    "gini": null,
+    "svgUrl": "https://restcountries.eu/data/cuw.svg"
   },
   {
     "code": "CX",
@@ -782,7 +835,8 @@ module.exports = [
     ],
     "area": 135,
     "population": 2072,
-    "gini": null
+    "gini": null,
+    "svgUrl": "https://restcountries.eu/data/cxr.svg"
   },
   {
     "code": "CY",
@@ -798,7 +852,8 @@ module.exports = [
     ],
     "area": 9251,
     "population": 847000,
-    "gini": null
+    "gini": null,
+    "svgUrl": "https://restcountries.eu/data/cyp.svg"
   },
   {
     "code": "CZ",
@@ -813,7 +868,8 @@ module.exports = [
     ],
     "area": 78865,
     "population": 10558524,
-    "gini": 26
+    "gini": 26,
+    "svgUrl": "https://restcountries.eu/data/cze.svg"
   },
   {
     "code": "DE",
@@ -827,7 +883,8 @@ module.exports = [
     ],
     "area": 357114,
     "population": 81770900,
-    "gini": 28.3
+    "gini": 28.3,
+    "svgUrl": "https://restcountries.eu/data/deu.svg"
   },
   {
     "code": "DJ",
@@ -842,7 +899,8 @@ module.exports = [
     ],
     "area": 23200,
     "population": 900000,
-    "gini": 40
+    "gini": 40,
+    "svgUrl": "https://restcountries.eu/data/dji.svg"
   },
   {
     "code": "DK",
@@ -856,7 +914,8 @@ module.exports = [
     ],
     "area": 43094,
     "population": 5717014,
-    "gini": 24
+    "gini": 24,
+    "svgUrl": "https://restcountries.eu/data/dnk.svg"
   },
   {
     "code": "DM",
@@ -870,7 +929,8 @@ module.exports = [
     ],
     "area": 751,
     "population": 71293,
-    "gini": null
+    "gini": null,
+    "svgUrl": "https://restcountries.eu/data/dma.svg"
   },
   {
     "code": "DO",
@@ -884,7 +944,8 @@ module.exports = [
     ],
     "area": 48671,
     "population": 10075045,
-    "gini": 47.2
+    "gini": 47.2,
+    "svgUrl": "https://restcountries.eu/data/dom.svg"
   },
   {
     "code": "DZ",
@@ -898,7 +959,8 @@ module.exports = [
     ],
     "area": 2381741,
     "population": 40400000,
-    "gini": 35.3
+    "gini": 35.3,
+    "svgUrl": "https://restcountries.eu/data/dza.svg"
   },
   {
     "code": "EC",
@@ -912,7 +974,8 @@ module.exports = [
     ],
     "area": 276841,
     "population": 16545799,
-    "gini": 49.3
+    "gini": 49.3,
+    "svgUrl": "https://restcountries.eu/data/ecu.svg"
   },
   {
     "code": "EE",
@@ -926,7 +989,8 @@ module.exports = [
     ],
     "area": 45227,
     "population": 1315944,
-    "gini": 36
+    "gini": 36,
+    "svgUrl": "https://restcountries.eu/data/est.svg"
   },
   {
     "code": "EG",
@@ -940,7 +1004,8 @@ module.exports = [
     ],
     "area": 1002450,
     "population": 91290000,
-    "gini": 30.8
+    "gini": 30.8,
+    "svgUrl": "https://restcountries.eu/data/egy.svg"
   },
   {
     "code": "EH",
@@ -954,7 +1019,8 @@ module.exports = [
     ],
     "area": 266000,
     "population": 510713,
-    "gini": null
+    "gini": null,
+    "svgUrl": "https://restcountries.eu/data/esh.svg"
   },
   {
     "code": "ER",
@@ -970,7 +1036,8 @@ module.exports = [
     ],
     "area": 117600,
     "population": 5352000,
-    "gini": null
+    "gini": null,
+    "svgUrl": "https://restcountries.eu/data/eri.svg"
   },
   {
     "code": "ES",
@@ -988,7 +1055,8 @@ module.exports = [
     ],
     "area": 505992,
     "population": 46438422,
-    "gini": 34.7
+    "gini": 34.7,
+    "svgUrl": "https://restcountries.eu/data/esp.svg"
   },
   {
     "code": "ET",
@@ -1002,7 +1070,8 @@ module.exports = [
     ],
     "area": 1104300,
     "population": 92206005,
-    "gini": 29.8
+    "gini": 29.8,
+    "svgUrl": "https://restcountries.eu/data/eth.svg"
   },
   {
     "code": "FI",
@@ -1017,7 +1086,8 @@ module.exports = [
     ],
     "area": 338424,
     "population": 5491817,
-    "gini": 26.9
+    "gini": 26.9,
+    "svgUrl": "https://restcountries.eu/data/fin.svg"
   },
   {
     "code": "FJ",
@@ -1034,7 +1104,8 @@ module.exports = [
     ],
     "area": 18272,
     "population": 867000,
-    "gini": 42.8
+    "gini": 42.8,
+    "svgUrl": "https://restcountries.eu/data/fji.svg"
   },
   {
     "code": "FK",
@@ -1048,7 +1119,8 @@ module.exports = [
     ],
     "area": 12173,
     "population": 2563,
-    "gini": null
+    "gini": null,
+    "svgUrl": "https://restcountries.eu/data/flk.svg"
   },
   {
     "code": "FM",
@@ -1062,7 +1134,8 @@ module.exports = [
     ],
     "area": 702,
     "population": 102800,
-    "gini": null
+    "gini": null,
+    "svgUrl": "https://restcountries.eu/data/fsm.svg"
   },
   {
     "code": "FO",
@@ -1076,7 +1149,8 @@ module.exports = [
     ],
     "area": 1393,
     "population": 49376,
-    "gini": null
+    "gini": null,
+    "svgUrl": "https://restcountries.eu/data/fro.svg"
   },
   {
     "code": "FR",
@@ -1090,7 +1164,8 @@ module.exports = [
     ],
     "area": 640679,
     "population": 66710000,
-    "gini": 32.7
+    "gini": 32.7,
+    "svgUrl": "https://restcountries.eu/data/fra.svg"
   },
   {
     "code": "GA",
@@ -1104,7 +1179,8 @@ module.exports = [
     ],
     "area": 267668,
     "population": 1802278,
-    "gini": 41.5
+    "gini": 41.5,
+    "svgUrl": "https://restcountries.eu/data/gab.svg"
   },
   {
     "code": "GB",
@@ -1118,7 +1194,8 @@ module.exports = [
     ],
     "area": 242900,
     "population": 65110000,
-    "gini": 34
+    "gini": 34,
+    "svgUrl": "https://restcountries.eu/data/gbr.svg"
   },
   {
     "code": "GD",
@@ -1132,7 +1209,8 @@ module.exports = [
     ],
     "area": 344,
     "population": 103328,
-    "gini": null
+    "gini": null,
+    "svgUrl": "https://restcountries.eu/data/grd.svg"
   },
   {
     "code": "GE",
@@ -1146,7 +1224,8 @@ module.exports = [
     ],
     "area": 69700,
     "population": 3720400,
-    "gini": 41.3
+    "gini": 41.3,
+    "svgUrl": "https://restcountries.eu/data/geo.svg"
   },
   {
     "code": "GF",
@@ -1160,7 +1239,8 @@ module.exports = [
     ],
     "area": null,
     "population": 254541,
-    "gini": null
+    "gini": null,
+    "svgUrl": "https://restcountries.eu/data/guf.svg"
   },
   {
     "code": "GG",
@@ -1175,7 +1255,8 @@ module.exports = [
     ],
     "area": 78,
     "population": 62999,
-    "gini": null
+    "gini": null,
+    "svgUrl": "https://restcountries.eu/data/ggy.svg"
   },
   {
     "code": "GH",
@@ -1189,7 +1270,8 @@ module.exports = [
     ],
     "area": 238533,
     "population": 27670174,
-    "gini": 42.8
+    "gini": 42.8,
+    "svgUrl": "https://restcountries.eu/data/gha.svg"
   },
   {
     "code": "GI",
@@ -1203,7 +1285,8 @@ module.exports = [
     ],
     "area": 6,
     "population": 33140,
-    "gini": null
+    "gini": null,
+    "svgUrl": "https://restcountries.eu/data/gib.svg"
   },
   {
     "code": "GL",
@@ -1217,7 +1300,8 @@ module.exports = [
     ],
     "area": 2166086,
     "population": 55847,
-    "gini": null
+    "gini": null,
+    "svgUrl": "https://restcountries.eu/data/grl.svg"
   },
   {
     "code": "GM",
@@ -1231,7 +1315,8 @@ module.exports = [
     ],
     "area": 11295,
     "population": 1882450,
-    "gini": null
+    "gini": null,
+    "svgUrl": "https://restcountries.eu/data/gmb.svg"
   },
   {
     "code": "GN",
@@ -1246,7 +1331,8 @@ module.exports = [
     ],
     "area": 245857,
     "population": 12947000,
-    "gini": 39.4
+    "gini": 39.4,
+    "svgUrl": "https://restcountries.eu/data/gin.svg"
   },
   {
     "code": "GP",
@@ -1260,7 +1346,8 @@ module.exports = [
     ],
     "area": null,
     "population": 400132,
-    "gini": null
+    "gini": null,
+    "svgUrl": "https://restcountries.eu/data/glp.svg"
   },
   {
     "code": "GQ",
@@ -1275,7 +1362,8 @@ module.exports = [
     ],
     "area": 28051,
     "population": 1222442,
-    "gini": null
+    "gini": null,
+    "svgUrl": "https://restcountries.eu/data/gnq.svg"
   },
   {
     "code": "GR",
@@ -1289,7 +1377,8 @@ module.exports = [
     ],
     "area": 131990,
     "population": 10858018,
-    "gini": 34.3
+    "gini": 34.3,
+    "svgUrl": "https://restcountries.eu/data/grc.svg"
   },
   {
     "code": "GS",
@@ -1303,7 +1392,8 @@ module.exports = [
     ],
     "area": null,
     "population": 30,
-    "gini": null
+    "gini": null,
+    "svgUrl": "https://restcountries.eu/data/sgs.svg"
   },
   {
     "code": "GT",
@@ -1317,7 +1407,8 @@ module.exports = [
     ],
     "area": 108889,
     "population": 16176133,
-    "gini": 55.9
+    "gini": 55.9,
+    "svgUrl": "https://restcountries.eu/data/gtm.svg"
   },
   {
     "code": "GU",
@@ -1333,7 +1424,8 @@ module.exports = [
     ],
     "area": 549,
     "population": 184200,
-    "gini": null
+    "gini": null,
+    "svgUrl": "https://restcountries.eu/data/gum.svg"
   },
   {
     "code": "GW",
@@ -1347,7 +1439,8 @@ module.exports = [
     ],
     "area": 36125,
     "population": 1547777,
-    "gini": 35.5
+    "gini": 35.5,
+    "svgUrl": "https://restcountries.eu/data/gnb.svg"
   },
   {
     "code": "GY",
@@ -1361,7 +1454,8 @@ module.exports = [
     ],
     "area": 214969,
     "population": 746900,
-    "gini": 44.5
+    "gini": 44.5,
+    "svgUrl": "https://restcountries.eu/data/guy.svg"
   },
   {
     "code": "HK",
@@ -1376,7 +1470,8 @@ module.exports = [
     ],
     "area": 1104,
     "population": 7324300,
-    "gini": 53.3
+    "gini": 53.3,
+    "svgUrl": "https://restcountries.eu/data/hkg.svg"
   },
   {
     "code": "HM",
@@ -1390,7 +1485,8 @@ module.exports = [
     ],
     "area": 412,
     "population": 0,
-    "gini": null
+    "gini": null,
+    "svgUrl": "https://restcountries.eu/data/hmd.svg"
   },
   {
     "code": "HN",
@@ -1404,7 +1500,8 @@ module.exports = [
     ],
     "area": 112492,
     "population": 8576532,
-    "gini": 57
+    "gini": 57,
+    "svgUrl": "https://restcountries.eu/data/hnd.svg"
   },
   {
     "code": "HR",
@@ -1418,7 +1515,8 @@ module.exports = [
     ],
     "area": 56594,
     "population": 4190669,
-    "gini": 33.7
+    "gini": 33.7,
+    "svgUrl": "https://restcountries.eu/data/hrv.svg"
   },
   {
     "code": "HT",
@@ -1433,7 +1531,8 @@ module.exports = [
     ],
     "area": 27750,
     "population": 11078033,
-    "gini": 59.2
+    "gini": 59.2,
+    "svgUrl": "https://restcountries.eu/data/hti.svg"
   },
   {
     "code": "HU",
@@ -1447,7 +1546,8 @@ module.exports = [
     ],
     "area": 93028,
     "population": 9823000,
-    "gini": 31.2
+    "gini": 31.2,
+    "svgUrl": "https://restcountries.eu/data/hun.svg"
   },
   {
     "code": "ID",
@@ -1461,7 +1561,8 @@ module.exports = [
     ],
     "area": 1904569,
     "population": 258705000,
-    "gini": 34
+    "gini": 34,
+    "svgUrl": "https://restcountries.eu/data/idn.svg"
   },
   {
     "code": "IE",
@@ -1476,7 +1577,8 @@ module.exports = [
     ],
     "area": 70273,
     "population": 6378000,
-    "gini": 34.3
+    "gini": 34.3,
+    "svgUrl": "https://restcountries.eu/data/irl.svg"
   },
   {
     "code": "IL",
@@ -1491,7 +1593,8 @@ module.exports = [
     ],
     "area": 20770,
     "population": 8527400,
-    "gini": 39.2
+    "gini": 39.2,
+    "svgUrl": "https://restcountries.eu/data/isr.svg"
   },
   {
     "code": "IM",
@@ -1506,7 +1609,8 @@ module.exports = [
     ],
     "area": 572,
     "population": 84497,
-    "gini": null
+    "gini": null,
+    "svgUrl": "https://restcountries.eu/data/imn.svg"
   },
   {
     "code": "IN",
@@ -1521,7 +1625,8 @@ module.exports = [
     ],
     "area": 3287590,
     "population": 1295210000,
-    "gini": 33.4
+    "gini": 33.4,
+    "svgUrl": "https://restcountries.eu/data/ind.svg"
   },
   {
     "code": "IO",
@@ -1535,7 +1640,8 @@ module.exports = [
     ],
     "area": 60,
     "population": 3000,
-    "gini": null
+    "gini": null,
+    "svgUrl": "https://restcountries.eu/data/iot.svg"
   },
   {
     "code": "IQ",
@@ -1550,7 +1656,8 @@ module.exports = [
     ],
     "area": 438317,
     "population": 37883543,
-    "gini": 30.9
+    "gini": 30.9,
+    "svgUrl": "https://restcountries.eu/data/irq.svg"
   },
   {
     "code": "IR",
@@ -1564,7 +1671,8 @@ module.exports = [
     ],
     "area": 1648195,
     "population": 79369900,
-    "gini": 38.3
+    "gini": 38.3,
+    "svgUrl": "https://restcountries.eu/data/irn.svg"
   },
   {
     "code": "IS",
@@ -1578,7 +1686,8 @@ module.exports = [
     ],
     "area": 103000,
     "population": 334300,
-    "gini": null
+    "gini": null,
+    "svgUrl": "https://restcountries.eu/data/isl.svg"
   },
   {
     "code": "IT",
@@ -1592,7 +1701,8 @@ module.exports = [
     ],
     "area": 301336,
     "population": 60665551,
-    "gini": 36
+    "gini": 36,
+    "svgUrl": "https://restcountries.eu/data/ita.svg"
   },
   {
     "code": "JE",
@@ -1607,7 +1717,8 @@ module.exports = [
     ],
     "area": 116,
     "population": 100800,
-    "gini": null
+    "gini": null,
+    "svgUrl": "https://restcountries.eu/data/jey.svg"
   },
   {
     "code": "JM",
@@ -1621,7 +1732,8 @@ module.exports = [
     ],
     "area": 10991,
     "population": 2723246,
-    "gini": 45.5
+    "gini": 45.5,
+    "svgUrl": "https://restcountries.eu/data/jam.svg"
   },
   {
     "code": "JO",
@@ -1635,7 +1747,8 @@ module.exports = [
     ],
     "area": 89342,
     "population": 9531712,
-    "gini": 35.4
+    "gini": 35.4,
+    "svgUrl": "https://restcountries.eu/data/jor.svg"
   },
   {
     "code": "JP",
@@ -1649,7 +1762,8 @@ module.exports = [
     ],
     "area": 377930,
     "population": 126960000,
-    "gini": 38.1
+    "gini": 38.1,
+    "svgUrl": "https://restcountries.eu/data/jpn.svg"
   },
   {
     "code": "KE",
@@ -1664,7 +1778,8 @@ module.exports = [
     ],
     "area": 580367,
     "population": 47251000,
-    "gini": 47.7
+    "gini": 47.7,
+    "svgUrl": "https://restcountries.eu/data/ken.svg"
   },
   {
     "code": "KG",
@@ -1679,7 +1794,8 @@ module.exports = [
     ],
     "area": 199951,
     "population": 6047800,
-    "gini": 36.2
+    "gini": 36.2,
+    "svgUrl": "https://restcountries.eu/data/kgz.svg"
   },
   {
     "code": "KH",
@@ -1693,7 +1809,8 @@ module.exports = [
     ],
     "area": 181035,
     "population": 15626444,
-    "gini": 37.9
+    "gini": 37.9,
+    "svgUrl": "https://restcountries.eu/data/khm.svg"
   },
   {
     "code": "KI",
@@ -1707,7 +1824,8 @@ module.exports = [
     ],
     "area": 811,
     "population": 113400,
-    "gini": null
+    "gini": null,
+    "svgUrl": "https://restcountries.eu/data/kir.svg"
   },
   {
     "code": "KM",
@@ -1722,7 +1840,8 @@ module.exports = [
     ],
     "area": 1862,
     "population": 806153,
-    "gini": 64.3
+    "gini": 64.3,
+    "svgUrl": "https://restcountries.eu/data/com.svg"
   },
   {
     "code": "KN",
@@ -1736,7 +1855,8 @@ module.exports = [
     ],
     "area": 261,
     "population": 46204,
-    "gini": null
+    "gini": null,
+    "svgUrl": "https://restcountries.eu/data/kna.svg"
   },
   {
     "code": "KP",
@@ -1750,7 +1870,8 @@ module.exports = [
     ],
     "area": 120538,
     "population": 25281000,
-    "gini": null
+    "gini": null,
+    "svgUrl": "https://restcountries.eu/data/prk.svg"
   },
   {
     "code": "KR",
@@ -1764,7 +1885,8 @@ module.exports = [
     ],
     "area": 100210,
     "population": 50801405,
-    "gini": 31.3
+    "gini": 31.3,
+    "svgUrl": "https://restcountries.eu/data/kor.svg"
   },
   {
     "code": "KW",
@@ -1778,7 +1900,8 @@ module.exports = [
     ],
     "area": 17818,
     "population": 4183658,
-    "gini": null
+    "gini": null,
+    "svgUrl": "https://restcountries.eu/data/kwt.svg"
   },
   {
     "code": "KY",
@@ -1792,7 +1915,8 @@ module.exports = [
     ],
     "area": 264,
     "population": 58238,
-    "gini": null
+    "gini": null,
+    "svgUrl": "https://restcountries.eu/data/cym.svg"
   },
   {
     "code": "KZ",
@@ -1807,7 +1931,8 @@ module.exports = [
     ],
     "area": 2724900,
     "population": 17753200,
-    "gini": 29
+    "gini": 29,
+    "svgUrl": "https://restcountries.eu/data/kaz.svg"
   },
   {
     "code": "LA",
@@ -1821,7 +1946,8 @@ module.exports = [
     ],
     "area": 236800,
     "population": 6492400,
-    "gini": 36.7
+    "gini": 36.7,
+    "svgUrl": "https://restcountries.eu/data/lao.svg"
   },
   {
     "code": "LB",
@@ -1836,7 +1962,8 @@ module.exports = [
     ],
     "area": 10452,
     "population": 5988000,
-    "gini": null
+    "gini": null,
+    "svgUrl": "https://restcountries.eu/data/lbn.svg"
   },
   {
     "code": "LC",
@@ -1850,7 +1977,8 @@ module.exports = [
     ],
     "area": 616,
     "population": 186000,
-    "gini": 42.6
+    "gini": 42.6,
+    "svgUrl": "https://restcountries.eu/data/lca.svg"
   },
   {
     "code": "LI",
@@ -1864,7 +1992,8 @@ module.exports = [
     ],
     "area": 160,
     "population": 37623,
-    "gini": null
+    "gini": null,
+    "svgUrl": "https://restcountries.eu/data/lie.svg"
   },
   {
     "code": "LK",
@@ -1879,7 +2008,8 @@ module.exports = [
     ],
     "area": 65610,
     "population": 20966000,
-    "gini": 40.3
+    "gini": 40.3,
+    "svgUrl": "https://restcountries.eu/data/lka.svg"
   },
   {
     "code": "LR",
@@ -1893,7 +2023,8 @@ module.exports = [
     ],
     "area": 111369,
     "population": 4615000,
-    "gini": 38.2
+    "gini": 38.2,
+    "svgUrl": "https://restcountries.eu/data/lbr.svg"
   },
   {
     "code": "LS",
@@ -1908,7 +2039,8 @@ module.exports = [
     ],
     "area": 30355,
     "population": 1894194,
-    "gini": 52.5
+    "gini": 52.5,
+    "svgUrl": "https://restcountries.eu/data/lso.svg"
   },
   {
     "code": "LT",
@@ -1922,7 +2054,8 @@ module.exports = [
     ],
     "area": 65300,
     "population": 2872294,
-    "gini": 37.6
+    "gini": 37.6,
+    "svgUrl": "https://restcountries.eu/data/ltu.svg"
   },
   {
     "code": "LU",
@@ -1938,7 +2071,8 @@ module.exports = [
     ],
     "area": 2586,
     "population": 576200,
-    "gini": 30.8
+    "gini": 30.8,
+    "svgUrl": "https://restcountries.eu/data/lux.svg"
   },
   {
     "code": "LV",
@@ -1952,7 +2086,8 @@ module.exports = [
     ],
     "area": 64559,
     "population": 1961600,
-    "gini": 36.6
+    "gini": 36.6,
+    "svgUrl": "https://restcountries.eu/data/lva.svg"
   },
   {
     "code": "LY",
@@ -1966,7 +2101,8 @@ module.exports = [
     ],
     "area": 1759540,
     "population": 6385000,
-    "gini": null
+    "gini": null,
+    "svgUrl": "https://restcountries.eu/data/lby.svg"
   },
   {
     "code": "MA",
@@ -1980,7 +2116,8 @@ module.exports = [
     ],
     "area": 446550,
     "population": 33337529,
-    "gini": 40.9
+    "gini": 40.9,
+    "svgUrl": "https://restcountries.eu/data/mar.svg"
   },
   {
     "code": "MC",
@@ -1994,7 +2131,8 @@ module.exports = [
     ],
     "area": 2.02,
     "population": 38400,
-    "gini": null
+    "gini": null,
+    "svgUrl": "https://restcountries.eu/data/mco.svg"
   },
   {
     "code": "MD",
@@ -2008,7 +2146,8 @@ module.exports = [
     ],
     "area": 33846,
     "population": 3553100,
-    "gini": 33
+    "gini": 33,
+    "svgUrl": "https://restcountries.eu/data/mda.svg"
   },
   {
     "code": "ME",
@@ -2025,7 +2164,8 @@ module.exports = [
     ],
     "area": 13812,
     "population": 621810,
-    "gini": 30
+    "gini": 30,
+    "svgUrl": "https://restcountries.eu/data/mne.svg"
   },
   {
     "code": "MF",
@@ -2041,7 +2181,8 @@ module.exports = [
     ],
     "area": 53,
     "population": 36979,
-    "gini": null
+    "gini": null,
+    "svgUrl": "https://restcountries.eu/data/maf.svg"
   },
   {
     "code": "MG",
@@ -2056,7 +2197,8 @@ module.exports = [
     ],
     "area": 587041,
     "population": 22434363,
-    "gini": 44.1
+    "gini": 44.1,
+    "svgUrl": "https://restcountries.eu/data/mdg.svg"
   },
   {
     "code": "MH",
@@ -2071,7 +2213,8 @@ module.exports = [
     ],
     "area": 181,
     "population": 54880,
-    "gini": null
+    "gini": null,
+    "svgUrl": "https://restcountries.eu/data/mhl.svg"
   },
   {
     "code": "MK",
@@ -2085,7 +2228,8 @@ module.exports = [
     ],
     "area": 25713,
     "population": 2058539,
-    "gini": 43.2
+    "gini": 43.2,
+    "svgUrl": "https://restcountries.eu/data/mkd.svg"
   },
   {
     "code": "ML",
@@ -2099,7 +2243,8 @@ module.exports = [
     ],
     "area": 1240192,
     "population": 18135000,
-    "gini": 33
+    "gini": 33,
+    "svgUrl": "https://restcountries.eu/data/mli.svg"
   },
   {
     "code": "MM",
@@ -2113,7 +2258,8 @@ module.exports = [
     ],
     "area": 676578,
     "population": 51419420,
-    "gini": null
+    "gini": null,
+    "svgUrl": "https://restcountries.eu/data/mmr.svg"
   },
   {
     "code": "MN",
@@ -2127,7 +2273,8 @@ module.exports = [
     ],
     "area": 1564110,
     "population": 3093100,
-    "gini": 36.5
+    "gini": 36.5,
+    "svgUrl": "https://restcountries.eu/data/mng.svg"
   },
   {
     "code": "MO",
@@ -2142,7 +2289,8 @@ module.exports = [
     ],
     "area": 30,
     "population": 649100,
-    "gini": null
+    "gini": null,
+    "svgUrl": "https://restcountries.eu/data/mac.svg"
   },
   {
     "code": "MP",
@@ -2157,7 +2305,8 @@ module.exports = [
     ],
     "area": 464,
     "population": 56940,
-    "gini": null
+    "gini": null,
+    "svgUrl": "https://restcountries.eu/data/mnp.svg"
   },
   {
     "code": "MQ",
@@ -2171,7 +2320,8 @@ module.exports = [
     ],
     "area": null,
     "population": 378243,
-    "gini": null
+    "gini": null,
+    "svgUrl": "https://restcountries.eu/data/mtq.svg"
   },
   {
     "code": "MR",
@@ -2185,7 +2335,8 @@ module.exports = [
     ],
     "area": 1030700,
     "population": 3718678,
-    "gini": 40.5
+    "gini": 40.5,
+    "svgUrl": "https://restcountries.eu/data/mrt.svg"
   },
   {
     "code": "MS",
@@ -2199,7 +2350,8 @@ module.exports = [
     ],
     "area": 102,
     "population": 4922,
-    "gini": null
+    "gini": null,
+    "svgUrl": "https://restcountries.eu/data/msr.svg"
   },
   {
     "code": "MT",
@@ -2214,7 +2366,8 @@ module.exports = [
     ],
     "area": 316,
     "population": 425384,
-    "gini": null
+    "gini": null,
+    "svgUrl": "https://restcountries.eu/data/mlt.svg"
   },
   {
     "code": "MU",
@@ -2228,7 +2381,8 @@ module.exports = [
     ],
     "area": 2040,
     "population": 1262879,
-    "gini": null
+    "gini": null,
+    "svgUrl": "https://restcountries.eu/data/mus.svg"
   },
   {
     "code": "MV",
@@ -2242,7 +2396,8 @@ module.exports = [
     ],
     "area": 300,
     "population": 344023,
-    "gini": 37.4
+    "gini": 37.4,
+    "svgUrl": "https://restcountries.eu/data/mdv.svg"
   },
   {
     "code": "MW",
@@ -2257,7 +2412,8 @@ module.exports = [
     ],
     "area": 118484,
     "population": 16832910,
-    "gini": 39
+    "gini": 39,
+    "svgUrl": "https://restcountries.eu/data/mwi.svg"
   },
   {
     "code": "MX",
@@ -2271,7 +2427,8 @@ module.exports = [
     ],
     "area": 1964375,
     "population": 122273473,
-    "gini": 47
+    "gini": 47,
+    "svgUrl": "https://restcountries.eu/data/mex.svg"
   },
   {
     "code": "MY",
@@ -2285,7 +2442,8 @@ module.exports = [
     ],
     "area": 330803,
     "population": 31405416,
-    "gini": 46.2
+    "gini": 46.2,
+    "svgUrl": "https://restcountries.eu/data/mys.svg"
   },
   {
     "code": "MZ",
@@ -2299,7 +2457,8 @@ module.exports = [
     ],
     "area": 801590,
     "population": 26423700,
-    "gini": 45.7
+    "gini": 45.7,
+    "svgUrl": "https://restcountries.eu/data/moz.svg"
   },
   {
     "code": "NA",
@@ -2314,7 +2473,8 @@ module.exports = [
     ],
     "area": 825615,
     "population": 2324388,
-    "gini": 63.9
+    "gini": 63.9,
+    "svgUrl": "https://restcountries.eu/data/nam.svg"
   },
   {
     "code": "NC",
@@ -2328,7 +2488,8 @@ module.exports = [
     ],
     "area": 18575,
     "population": 268767,
-    "gini": null
+    "gini": null,
+    "svgUrl": "https://restcountries.eu/data/ncl.svg"
   },
   {
     "code": "NE",
@@ -2342,7 +2503,8 @@ module.exports = [
     ],
     "area": 1267000,
     "population": 20715000,
-    "gini": 34.6
+    "gini": 34.6,
+    "svgUrl": "https://restcountries.eu/data/ner.svg"
   },
   {
     "code": "NF",
@@ -2356,7 +2518,8 @@ module.exports = [
     ],
     "area": 36,
     "population": 2302,
-    "gini": null
+    "gini": null,
+    "svgUrl": "https://restcountries.eu/data/nfk.svg"
   },
   {
     "code": "NG",
@@ -2370,7 +2533,8 @@ module.exports = [
     ],
     "area": 923768,
     "population": 186988000,
-    "gini": 48.8
+    "gini": 48.8,
+    "svgUrl": "https://restcountries.eu/data/nga.svg"
   },
   {
     "code": "NI",
@@ -2384,7 +2548,8 @@ module.exports = [
     ],
     "area": 130373,
     "population": 6262703,
-    "gini": 40.5
+    "gini": 40.5,
+    "svgUrl": "https://restcountries.eu/data/nic.svg"
   },
   {
     "code": "NL",
@@ -2398,7 +2563,8 @@ module.exports = [
     ],
     "area": 41850,
     "population": 17019800,
-    "gini": 30.9
+    "gini": 30.9,
+    "svgUrl": "https://restcountries.eu/data/nld.svg"
   },
   {
     "code": "NO",
@@ -2414,7 +2580,8 @@ module.exports = [
     ],
     "area": 323802,
     "population": 5223256,
-    "gini": 25.8
+    "gini": 25.8,
+    "svgUrl": "https://restcountries.eu/data/nor.svg"
   },
   {
     "code": "NP",
@@ -2428,7 +2595,8 @@ module.exports = [
     ],
     "area": 147181,
     "population": 28431500,
-    "gini": 32.8
+    "gini": 32.8,
+    "svgUrl": "https://restcountries.eu/data/npl.svg"
   },
   {
     "code": "NR",
@@ -2443,7 +2611,8 @@ module.exports = [
     ],
     "area": 21,
     "population": 10084,
-    "gini": null
+    "gini": null,
+    "svgUrl": "https://restcountries.eu/data/nru.svg"
   },
   {
     "code": "NU",
@@ -2457,7 +2626,8 @@ module.exports = [
     ],
     "area": 260,
     "population": 1470,
-    "gini": null
+    "gini": null,
+    "svgUrl": "https://restcountries.eu/data/niu.svg"
   },
   {
     "code": "NZ",
@@ -2472,7 +2642,8 @@ module.exports = [
     ],
     "area": 270467,
     "population": 4697854,
-    "gini": 36.2
+    "gini": 36.2,
+    "svgUrl": "https://restcountries.eu/data/nzl.svg"
   },
   {
     "code": "OM",
@@ -2486,7 +2657,8 @@ module.exports = [
     ],
     "area": 309500,
     "population": 4420133,
-    "gini": null
+    "gini": null,
+    "svgUrl": "https://restcountries.eu/data/omn.svg"
   },
   {
     "code": "PA",
@@ -2500,7 +2672,8 @@ module.exports = [
     ],
     "area": 75417,
     "population": 3814672,
-    "gini": 51.9
+    "gini": 51.9,
+    "svgUrl": "https://restcountries.eu/data/pan.svg"
   },
   {
     "code": "PE",
@@ -2514,7 +2687,8 @@ module.exports = [
     ],
     "area": 1285216,
     "population": 31488700,
-    "gini": 48.1
+    "gini": 48.1,
+    "svgUrl": "https://restcountries.eu/data/per.svg"
   },
   {
     "code": "PF",
@@ -2528,7 +2702,8 @@ module.exports = [
     ],
     "area": 4167,
     "population": 271800,
-    "gini": null
+    "gini": null,
+    "svgUrl": "https://restcountries.eu/data/pyf.svg"
   },
   {
     "code": "PG",
@@ -2542,7 +2717,8 @@ module.exports = [
     ],
     "area": 462840,
     "population": 8083700,
-    "gini": 50.9
+    "gini": 50.9,
+    "svgUrl": "https://restcountries.eu/data/png.svg"
   },
   {
     "code": "PH",
@@ -2556,7 +2732,8 @@ module.exports = [
     ],
     "area": 342353,
     "population": 103279800,
-    "gini": 43
+    "gini": 43,
+    "svgUrl": "https://restcountries.eu/data/phl.svg"
   },
   {
     "code": "PK",
@@ -2571,7 +2748,8 @@ module.exports = [
     ],
     "area": 881912,
     "population": 194125062,
-    "gini": 30
+    "gini": 30,
+    "svgUrl": "https://restcountries.eu/data/pak.svg"
   },
   {
     "code": "PL",
@@ -2585,7 +2763,8 @@ module.exports = [
     ],
     "area": 312679,
     "population": 38437239,
-    "gini": 34.1
+    "gini": 34.1,
+    "svgUrl": "https://restcountries.eu/data/pol.svg"
   },
   {
     "code": "PM",
@@ -2599,7 +2778,8 @@ module.exports = [
     ],
     "area": 242,
     "population": 6069,
-    "gini": null
+    "gini": null,
+    "svgUrl": "https://restcountries.eu/data/spm.svg"
   },
   {
     "code": "PN",
@@ -2613,7 +2793,8 @@ module.exports = [
     ],
     "area": 47,
     "population": 56,
-    "gini": null
+    "gini": null,
+    "svgUrl": "https://restcountries.eu/data/pcn.svg"
   },
   {
     "code": "PR",
@@ -2628,7 +2809,8 @@ module.exports = [
     ],
     "area": 8870,
     "population": 3474182,
-    "gini": null
+    "gini": null,
+    "svgUrl": "https://restcountries.eu/data/pri.svg"
   },
   {
     "code": "PS",
@@ -2642,7 +2824,8 @@ module.exports = [
     ],
     "area": null,
     "population": 4682467,
-    "gini": 35.5
+    "gini": 35.5,
+    "svgUrl": "https://restcountries.eu/data/pse.svg"
   },
   {
     "code": "PT",
@@ -2656,7 +2839,8 @@ module.exports = [
     ],
     "area": 92090,
     "population": 10374822,
-    "gini": 38.5
+    "gini": 38.5,
+    "svgUrl": "https://restcountries.eu/data/prt.svg"
   },
   {
     "code": "PW",
@@ -2670,7 +2854,8 @@ module.exports = [
     ],
     "area": 459,
     "population": 17950,
-    "gini": null
+    "gini": null,
+    "svgUrl": "https://restcountries.eu/data/plw.svg"
   },
   {
     "code": "PY",
@@ -2685,7 +2870,8 @@ module.exports = [
     ],
     "area": 406752,
     "population": 6854536,
-    "gini": 52.4
+    "gini": 52.4,
+    "svgUrl": "https://restcountries.eu/data/pry.svg"
   },
   {
     "code": "QA",
@@ -2699,7 +2885,8 @@ module.exports = [
     ],
     "area": 11586,
     "population": 2587564,
-    "gini": 41.1
+    "gini": 41.1,
+    "svgUrl": "https://restcountries.eu/data/qat.svg"
   },
   {
     "code": "RE",
@@ -2713,7 +2900,8 @@ module.exports = [
     ],
     "area": null,
     "population": 840974,
-    "gini": null
+    "gini": null,
+    "svgUrl": "https://restcountries.eu/data/reu.svg"
   },
   {
     "code": "RO",
@@ -2727,7 +2915,8 @@ module.exports = [
     ],
     "area": 238391,
     "population": 19861408,
-    "gini": 30
+    "gini": 30,
+    "svgUrl": "https://restcountries.eu/data/rou.svg"
   },
   {
     "code": "RS",
@@ -2741,7 +2930,8 @@ module.exports = [
     ],
     "area": 88361,
     "population": 7076372,
-    "gini": 27.8
+    "gini": 27.8,
+    "svgUrl": "https://restcountries.eu/data/srb.svg"
   },
   {
     "code": "RU",
@@ -2755,7 +2945,8 @@ module.exports = [
     ],
     "area": 17124442,
     "population": 146599183,
-    "gini": 40.1
+    "gini": 40.1,
+    "svgUrl": "https://restcountries.eu/data/rus.svg"
   },
   {
     "code": "RW",
@@ -2771,7 +2962,8 @@ module.exports = [
     ],
     "area": 26338,
     "population": 11553188,
-    "gini": 50.8
+    "gini": 50.8,
+    "svgUrl": "https://restcountries.eu/data/rwa.svg"
   },
   {
     "code": "SA",
@@ -2785,7 +2977,8 @@ module.exports = [
     ],
     "area": 2149690,
     "population": 32248200,
-    "gini": null
+    "gini": null,
+    "svgUrl": "https://restcountries.eu/data/sau.svg"
   },
   {
     "code": "SB",
@@ -2799,7 +2992,8 @@ module.exports = [
     ],
     "area": 28896,
     "population": 642000,
-    "gini": null
+    "gini": null,
+    "svgUrl": "https://restcountries.eu/data/slb.svg"
   },
   {
     "code": "SC",
@@ -2814,7 +3008,8 @@ module.exports = [
     ],
     "area": 452,
     "population": 91400,
-    "gini": 65.8
+    "gini": 65.8,
+    "svgUrl": "https://restcountries.eu/data/syc.svg"
   },
   {
     "code": "SD",
@@ -2829,7 +3024,8 @@ module.exports = [
     ],
     "area": 1886068,
     "population": 39598700,
-    "gini": 35.3
+    "gini": 35.3,
+    "svgUrl": "https://restcountries.eu/data/sdn.svg"
   },
   {
     "code": "SE",
@@ -2843,7 +3039,8 @@ module.exports = [
     ],
     "area": 450295,
     "population": 9894888,
-    "gini": 25
+    "gini": 25,
+    "svgUrl": "https://restcountries.eu/data/swe.svg"
   },
   {
     "code": "SG",
@@ -2860,7 +3057,8 @@ module.exports = [
     ],
     "area": 710,
     "population": 5535000,
-    "gini": 48.1
+    "gini": 48.1,
+    "svgUrl": "https://restcountries.eu/data/sgp.svg"
   },
   {
     "code": "SH",
@@ -2874,7 +3072,8 @@ module.exports = [
     ],
     "area": null,
     "population": 4255,
-    "gini": null
+    "gini": null,
+    "svgUrl": "https://restcountries.eu/data/shn.svg"
   },
   {
     "code": "SI",
@@ -2888,7 +3087,8 @@ module.exports = [
     ],
     "area": 20273,
     "population": 2064188,
-    "gini": 31.2
+    "gini": 31.2,
+    "svgUrl": "https://restcountries.eu/data/svn.svg"
   },
   {
     "code": "SJ",
@@ -2902,7 +3102,8 @@ module.exports = [
     ],
     "area": null,
     "population": 2562,
-    "gini": null
+    "gini": null,
+    "svgUrl": "https://restcountries.eu/data/sjm.svg"
   },
   {
     "code": "SK",
@@ -2916,7 +3117,8 @@ module.exports = [
     ],
     "area": 49037,
     "population": 5426252,
-    "gini": 26
+    "gini": 26,
+    "svgUrl": "https://restcountries.eu/data/svk.svg"
   },
   {
     "code": "SL",
@@ -2930,7 +3132,8 @@ module.exports = [
     ],
     "area": 71740,
     "population": 7075641,
-    "gini": 42.5
+    "gini": 42.5,
+    "svgUrl": "https://restcountries.eu/data/sle.svg"
   },
   {
     "code": "SM",
@@ -2944,7 +3147,8 @@ module.exports = [
     ],
     "area": 61,
     "population": 33005,
-    "gini": null
+    "gini": null,
+    "svgUrl": "https://restcountries.eu/data/smr.svg"
   },
   {
     "code": "SN",
@@ -2958,7 +3162,8 @@ module.exports = [
     ],
     "area": 196722,
     "population": 14799859,
-    "gini": 39.2
+    "gini": 39.2,
+    "svgUrl": "https://restcountries.eu/data/sen.svg"
   },
   {
     "code": "SO",
@@ -2973,7 +3178,8 @@ module.exports = [
     ],
     "area": 637657,
     "population": 11079000,
-    "gini": null
+    "gini": null,
+    "svgUrl": "https://restcountries.eu/data/som.svg"
   },
   {
     "code": "SR",
@@ -2987,7 +3193,8 @@ module.exports = [
     ],
     "area": 163820,
     "population": 541638,
-    "gini": 52.9
+    "gini": 52.9,
+    "svgUrl": "https://restcountries.eu/data/sur.svg"
   },
   {
     "code": "SS",
@@ -3001,7 +3208,8 @@ module.exports = [
     ],
     "area": 619745,
     "population": 12131000,
-    "gini": 45.5
+    "gini": 45.5,
+    "svgUrl": "https://restcountries.eu/data/ssd.svg"
   },
   {
     "code": "ST",
@@ -3015,7 +3223,8 @@ module.exports = [
     ],
     "area": 964,
     "population": 187356,
-    "gini": 50.8
+    "gini": 50.8,
+    "svgUrl": "https://restcountries.eu/data/stp.svg"
   },
   {
     "code": "SV",
@@ -3029,7 +3238,8 @@ module.exports = [
     ],
     "area": 21041,
     "population": 6520675,
-    "gini": 48.3
+    "gini": 48.3,
+    "svgUrl": "https://restcountries.eu/data/slv.svg"
   },
   {
     "code": "SX",
@@ -3044,7 +3254,8 @@ module.exports = [
     ],
     "area": 34,
     "population": 38247,
-    "gini": null
+    "gini": null,
+    "svgUrl": "https://restcountries.eu/data/sxm.svg"
   },
   {
     "code": "SY",
@@ -3058,7 +3269,8 @@ module.exports = [
     ],
     "area": 185180,
     "population": 18564000,
-    "gini": 35.8
+    "gini": 35.8,
+    "svgUrl": "https://restcountries.eu/data/syr.svg"
   },
   {
     "code": "SZ",
@@ -3073,7 +3285,8 @@ module.exports = [
     ],
     "area": 17364,
     "population": 1132657,
-    "gini": 51.5
+    "gini": 51.5,
+    "svgUrl": "https://restcountries.eu/data/swz.svg"
   },
   {
     "code": "TC",
@@ -3087,7 +3300,8 @@ module.exports = [
     ],
     "area": 948,
     "population": 31458,
-    "gini": null
+    "gini": null,
+    "svgUrl": "https://restcountries.eu/data/tca.svg"
   },
   {
     "code": "TD",
@@ -3102,7 +3316,8 @@ module.exports = [
     ],
     "area": 1284000,
     "population": 14497000,
-    "gini": 39.8
+    "gini": 39.8,
+    "svgUrl": "https://restcountries.eu/data/tcd.svg"
   },
   {
     "code": "TF",
@@ -3116,7 +3331,8 @@ module.exports = [
     ],
     "area": 7747,
     "population": 140,
-    "gini": null
+    "gini": null,
+    "svgUrl": "https://restcountries.eu/data/atf.svg"
   },
   {
     "code": "TG",
@@ -3130,7 +3346,8 @@ module.exports = [
     ],
     "area": 56785,
     "population": 7143000,
-    "gini": 34.4
+    "gini": 34.4,
+    "svgUrl": "https://restcountries.eu/data/tgo.svg"
   },
   {
     "code": "TH",
@@ -3144,7 +3361,8 @@ module.exports = [
     ],
     "area": 513120,
     "population": 65327652,
-    "gini": 40
+    "gini": 40,
+    "svgUrl": "https://restcountries.eu/data/tha.svg"
   },
   {
     "code": "TJ",
@@ -3159,7 +3377,8 @@ module.exports = [
     ],
     "area": 143100,
     "population": 8593600,
-    "gini": 30.8
+    "gini": 30.8,
+    "svgUrl": "https://restcountries.eu/data/tjk.svg"
   },
   {
     "code": "TK",
@@ -3173,7 +3392,8 @@ module.exports = [
     ],
     "area": 12,
     "population": 1411,
-    "gini": null
+    "gini": null,
+    "svgUrl": "https://restcountries.eu/data/tkl.svg"
   },
   {
     "code": "TL",
@@ -3187,7 +3407,8 @@ module.exports = [
     ],
     "area": 14874,
     "population": 1167242,
-    "gini": 31.9
+    "gini": 31.9,
+    "svgUrl": "https://restcountries.eu/data/tls.svg"
   },
   {
     "code": "TM",
@@ -3202,7 +3423,8 @@ module.exports = [
     ],
     "area": 488100,
     "population": 4751120,
-    "gini": 40.8
+    "gini": 40.8,
+    "svgUrl": "https://restcountries.eu/data/tkm.svg"
   },
   {
     "code": "TN",
@@ -3216,7 +3438,8 @@ module.exports = [
     ],
     "area": 163610,
     "population": 11154400,
-    "gini": 41.4
+    "gini": 41.4,
+    "svgUrl": "https://restcountries.eu/data/tun.svg"
   },
   {
     "code": "TO",
@@ -3231,7 +3454,8 @@ module.exports = [
     ],
     "area": 747,
     "population": 103252,
-    "gini": null
+    "gini": null,
+    "svgUrl": "https://restcountries.eu/data/ton.svg"
   },
   {
     "code": "TR",
@@ -3245,7 +3469,8 @@ module.exports = [
     ],
     "area": 783562,
     "population": 78741053,
-    "gini": 39
+    "gini": 39,
+    "svgUrl": "https://restcountries.eu/data/tur.svg"
   },
   {
     "code": "TT",
@@ -3259,7 +3484,8 @@ module.exports = [
     ],
     "area": 5130,
     "population": 1349667,
-    "gini": 40.3
+    "gini": 40.3,
+    "svgUrl": "https://restcountries.eu/data/tto.svg"
   },
   {
     "code": "TV",
@@ -3273,7 +3499,8 @@ module.exports = [
     ],
     "area": 26,
     "population": 10640,
-    "gini": null
+    "gini": null,
+    "svgUrl": "https://restcountries.eu/data/tuv.svg"
   },
   {
     "code": "TW",
@@ -3287,7 +3514,8 @@ module.exports = [
     ],
     "area": 36193,
     "population": 23503349,
-    "gini": null
+    "gini": null,
+    "svgUrl": "https://restcountries.eu/data/twn.svg"
   },
   {
     "code": "TZ",
@@ -3302,7 +3530,8 @@ module.exports = [
     ],
     "area": 945087,
     "population": 55155000,
-    "gini": 37.6
+    "gini": 37.6,
+    "svgUrl": "https://restcountries.eu/data/tza.svg"
   },
   {
     "code": "UA",
@@ -3316,7 +3545,8 @@ module.exports = [
     ],
     "area": 603700,
     "population": 42692393,
-    "gini": 26.4
+    "gini": 26.4,
+    "svgUrl": "https://restcountries.eu/data/ukr.svg"
   },
   {
     "code": "UG",
@@ -3331,7 +3561,8 @@ module.exports = [
     ],
     "area": 241550,
     "population": 33860700,
-    "gini": 44.3
+    "gini": 44.3,
+    "svgUrl": "https://restcountries.eu/data/uga.svg"
   },
   {
     "code": "UM",
@@ -3345,7 +3576,8 @@ module.exports = [
     ],
     "area": null,
     "population": 300,
-    "gini": null
+    "gini": null,
+    "svgUrl": "https://restcountries.eu/data/umi.svg"
   },
   {
     "code": "US",
@@ -3359,7 +3591,8 @@ module.exports = [
     ],
     "area": 9629091,
     "population": 323947000,
-    "gini": 48
+    "gini": 48,
+    "svgUrl": "https://restcountries.eu/data/usa.svg"
   },
   {
     "code": "UY",
@@ -3373,7 +3606,8 @@ module.exports = [
     ],
     "area": 181034,
     "population": 3480222,
-    "gini": 39.7
+    "gini": 39.7,
+    "svgUrl": "https://restcountries.eu/data/ury.svg"
   },
   {
     "code": "UZ",
@@ -3388,7 +3622,8 @@ module.exports = [
     ],
     "area": 447400,
     "population": 31576400,
-    "gini": 36.7
+    "gini": 36.7,
+    "svgUrl": "https://restcountries.eu/data/uzb.svg"
   },
   {
     "code": "VA",
@@ -3403,7 +3638,8 @@ module.exports = [
     ],
     "area": 0.44,
     "population": 451,
-    "gini": null
+    "gini": null,
+    "svgUrl": "https://restcountries.eu/data/vat.svg"
   },
   {
     "code": "VC",
@@ -3417,7 +3653,8 @@ module.exports = [
     ],
     "area": 389,
     "population": 109991,
-    "gini": null
+    "gini": null,
+    "svgUrl": "https://restcountries.eu/data/vct.svg"
   },
   {
     "code": "VE",
@@ -3431,7 +3668,8 @@ module.exports = [
     ],
     "area": 916445,
     "population": 31028700,
-    "gini": 44.8
+    "gini": 44.8,
+    "svgUrl": "https://restcountries.eu/data/ven.svg"
   },
   {
     "code": "VG",
@@ -3445,7 +3683,8 @@ module.exports = [
     ],
     "area": 151,
     "population": 28514,
-    "gini": null
+    "gini": null,
+    "svgUrl": "https://restcountries.eu/data/vgb.svg"
   },
   {
     "code": "VI",
@@ -3459,7 +3698,8 @@ module.exports = [
     ],
     "area": 346.36,
     "population": 114743,
-    "gini": null
+    "gini": null,
+    "svgUrl": "https://restcountries.eu/data/vir.svg"
   },
   {
     "code": "VN",
@@ -3473,7 +3713,8 @@ module.exports = [
     ],
     "area": 331212,
     "population": 92700000,
-    "gini": 35.6
+    "gini": 35.6,
+    "svgUrl": "https://restcountries.eu/data/vnm.svg"
   },
   {
     "code": "VU",
@@ -3489,7 +3730,8 @@ module.exports = [
     ],
     "area": 12189,
     "population": 277500,
-    "gini": null
+    "gini": null,
+    "svgUrl": "https://restcountries.eu/data/vut.svg"
   },
   {
     "code": "WF",
@@ -3503,7 +3745,8 @@ module.exports = [
     ],
     "area": 142,
     "population": 11750,
-    "gini": null
+    "gini": null,
+    "svgUrl": "https://restcountries.eu/data/wlf.svg"
   },
   {
     "code": "WS",
@@ -3518,7 +3761,8 @@ module.exports = [
     ],
     "area": 2842,
     "population": 194899,
-    "gini": null
+    "gini": null,
+    "svgUrl": "https://restcountries.eu/data/wsm.svg"
   },
   {
     "code": "XK",
@@ -3533,7 +3777,8 @@ module.exports = [
     ],
     "area": 10908,
     "population": 1733842,
-    "gini": null
+    "gini": null,
+    "svgUrl": "https://restcountries.eu/data/kos.svg"
   },
   {
     "code": "YE",
@@ -3547,7 +3792,8 @@ module.exports = [
     ],
     "area": 527968,
     "population": 27478000,
-    "gini": 37.7
+    "gini": 37.7,
+    "svgUrl": "https://restcountries.eu/data/yem.svg"
   },
   {
     "code": "YT",
@@ -3561,7 +3807,8 @@ module.exports = [
     ],
     "area": null,
     "population": 226915,
-    "gini": null
+    "gini": null,
+    "svgUrl": "https://restcountries.eu/data/myt.svg"
   },
   {
     "code": "ZA",
@@ -3584,7 +3831,8 @@ module.exports = [
     ],
     "area": 1221037,
     "population": 55653654,
-    "gini": 63.1
+    "gini": 63.1,
+    "svgUrl": "https://restcountries.eu/data/zaf.svg"
   },
   {
     "code": "ZM",
@@ -3598,7 +3846,8 @@ module.exports = [
     ],
     "area": 752612,
     "population": 15933883,
-    "gini": 54.6
+    "gini": 54.6,
+    "svgUrl": "https://restcountries.eu/data/zmb.svg"
   },
   {
     "code": "ZW",
@@ -3614,6 +3863,7 @@ module.exports = [
     ],
     "area": 390757,
     "population": 14240168,
-    "gini": null
+    "gini": null,
+    "svgUrl": "https://restcountries.eu/data/zwe.svg"
   }
 ];

@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+
 :root, ul, li{
   margin: 0;
   padding: 0;
@@ -6,10 +8,37 @@
 #root {
   margin: auto;
   width: 800px;
+  font-family: 'Roboto', sans-serif;
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  row-gap: 1rem;
+  column-gap: 2rem;
+}
+
+header, section {
+  grid-column-start: 1;
+  grid-column-end: 3;
+}
+
+section#flag {
+  grid-column: 1;
+}
+section#map {
+  grid-column: 2;
 }
 
 h1 {
   text-align: center;
+  font-size: 3rem;
+}
+
+h2 {
+  font-size: 2rem;
+}
+
+p {
+  font-size: 1.3rem;
+  line-height: 2rem;
 }
 
 .news ul {
@@ -26,9 +55,11 @@ h1 {
   display: block;
 }
 
-.map {
+#map {
   text-align: center;
 }
-.map h2 {
+#map h2 {
   text-align: left;
 }
+
+img { width: 100%;}

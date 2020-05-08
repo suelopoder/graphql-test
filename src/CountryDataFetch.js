@@ -7,14 +7,15 @@ import Loading from './Loading';
 const GET_COUNTRY = gql`
   query {
     countryOfTheDay {
-      name,
-      capital,
-      currency,
-      emoji,
-      code,
-      languages,
-      area,
+      name
+      capital
+      currency
+      emoji
+      code
+      languages
+      area
       population
+      svgUrl
     }
   }
 `;
