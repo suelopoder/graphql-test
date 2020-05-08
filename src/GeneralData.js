@@ -10,7 +10,7 @@ const GeneralData = ({ name, population, languages, area, continent, capital }) 
   <section>
     <h2>Country of the day is {name}</h2>
     <p>It's population is {new Intl.NumberFormat().format(population)} peps. They live in {new Intl.NumberFormat().format(area)} km<sup>2</sup>. That's one {Math.ceil(population/area)} people per km<sup>2</sup>!</p>
-    <p>We are talking about {continent} and it's capital is {capital}. The majority speaks {languages[0]}. <b>{LangMap[languages[0]] || LangMap.default}</b></p>
+    <p>We are talking about {continent} and it's capital is <b>{capital}</b>. The majority speaks {languages[0]}. <b>{LangMap[languages[0]] || LangMap.default}</b></p>
   </section>
 );
 
