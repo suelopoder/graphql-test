@@ -1,7 +1,6 @@
 import React, { useEffect, useState } from 'react';
 
-const NEWS_URL =
-  'http://localhost:3001/api/news';
+const NEWS_URL = '/api/news';
 
 const News = (props) => {
   const [news, setNews] = useState(null);
