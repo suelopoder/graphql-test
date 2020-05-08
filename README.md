@@ -6,7 +6,6 @@ Later on I decided to build my own graphql data server to integrate some info an
 ## TODO
 
 - add newsapi.org reference
-- dockerize
 - improve design (a lot)
 - add instructions on how to run the app
 - Nice to have, add mark in world map (how?)
