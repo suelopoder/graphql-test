@@ -16,6 +16,7 @@ const GET_COUNTRY = gql`
       area
       population
       svgUrl
+      continent
     }
   }
 `;
