@@ -28,7 +28,7 @@
     "test": "react-scripts test",
     "eject": "react-scripts eject",
     "docker:build": "docker build -t suelopoder/graphql-test .",
-    "docker:run": "docker run -i -t -p 8080:8080 suelopoder/graphql-test"
+    "docker:run": "docker run --env-file=.ENV -i -t -p 8080:8080 suelopoder/graphql-test"
   },
   "proxy": "http://localhost:3001",
   "eslintConfig": {
